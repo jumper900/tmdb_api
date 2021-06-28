@@ -1,0 +1,21 @@
+.gri{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.nav-item{
+  padding: 0 15px;
+}
+
+.card-title{
+  font-size: 1.5rem;
+  font-weight: bold;
+
+}
+
+@media (max-width: 500px) {
+  .card{
+    width: 100%;
+  }
+  
+}
